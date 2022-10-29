@@ -1,0 +1,15 @@
+C:\Users\eriks\source\repos\Bjoernensover\Njoernen-sover\Mycsconsoleproject\obj\Debug\net6.0\Mycsconsoleproject.csproj.AssemblyReference.cache
+C:\Users\eriks\source\repos\Bjoernensover\Njoernen-sover\Mycsconsoleproject\obj\Debug\net6.0\Mycsconsoleproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eriks\source\repos\Bjoernensover\Njoernen-sover\Mycsconsoleproject\obj\Debug\net6.0\Mycsconsoleproject.AssemblyInfoInputs.cache
+C:\Users\eriks\source\repos\Bjoernensover\Njoernen-sover\Mycsconsoleproject\obj\Debug\net6.0\Mycsconsoleproject.AssemblyInfo.cs
+C:\Users\eriks\source\repos\Bjoernensover\Njoernen-sover\Mycsconsoleproject\obj\Debug\net6.0\Mycsconsoleproject.csproj.CoreCompileInputs.cache
+C:\Users\eriks\source\repos\Bjoernensover\Njoernen-sover\Mycsconsoleproject\bin\Debug\net6.0\Mycsconsoleproject.exe
+C:\Users\eriks\source\repos\Bjoernensover\Njoernen-sover\Mycsconsoleproject\bin\Debug\net6.0\Mycsconsoleproject.deps.json
+C:\Users\eriks\source\repos\Bjoernensover\Njoernen-sover\Mycsconsoleproject\bin\Debug\net6.0\Mycsconsoleproject.runtimeconfig.json
+C:\Users\eriks\source\repos\Bjoernensover\Njoernen-sover\Mycsconsoleproject\bin\Debug\net6.0\Mycsconsoleproject.dll
+C:\Users\eriks\source\repos\Bjoernensover\Njoernen-sover\Mycsconsoleproject\bin\Debug\net6.0\Mycsconsoleproject.pdb
+C:\Users\eriks\source\repos\Bjoernensover\Njoernen-sover\Mycsconsoleproject\obj\Debug\net6.0\Mycsconsoleproject.dll
+C:\Users\eriks\source\repos\Bjoernensover\Njoernen-sover\Mycsconsoleproject\obj\Debug\net6.0\refint\Mycsconsoleproject.dll
+C:\Users\eriks\source\repos\Bjoernensover\Njoernen-sover\Mycsconsoleproject\obj\Debug\net6.0\Mycsconsoleproject.pdb
+C:\Users\eriks\source\repos\Bjoernensover\Njoernen-sover\Mycsconsoleproject\obj\Debug\net6.0\Mycsconsoleproject.genruntimeconfig.cache
+C:\Users\eriks\source\repos\Bjoernensover\Njoernen-sover\Mycsconsoleproject\obj\Debug\net6.0\ref\Mycsconsoleproject.dll
